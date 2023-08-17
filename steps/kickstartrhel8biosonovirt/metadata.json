@@ -1,0 +1,24 @@
+{
+    "actionOnStepFail": "stop", 
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "4731fbcd-c30f-4966-aa99-ca4b16bfdba9", 
+    "isBlueprint": true, 
+    "key": "kickstartrhel8biosonovirt", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "createrhel8bioskickstartisolink"
+        }, 
+        {
+            "order": 50, 
+            "stepKey": "ovirtrecreatevirtualmachinebioslink"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "cleanbuildfileslink"
+        }
+    ], 
+    "name": "Kickstart RHEL8 BIOS on oVirt", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

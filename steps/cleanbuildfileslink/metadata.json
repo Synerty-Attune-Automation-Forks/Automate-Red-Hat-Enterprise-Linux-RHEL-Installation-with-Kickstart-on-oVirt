@@ -1,0 +1,15 @@
+{
+    "actionOnStepFail": null, 
+    "blueprintName": "", 
+    "blueprintUuid": "eb8023cf-b54e-4035-9218-30902b7b8daf", 
+    "cloneUrl": "", 
+    "enabled": true, 
+    "externalUuid4": "6393486e-4ddc-4972-a47e-87a8dda0dd7d", 
+    "key": "cleanbuildfileslink", 
+    "name": "Clean Build Files (link)", 
+    "parameterMap": [], 
+    "projectName": "", 
+    "projectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+    "projectVersion": "", 
+    "type": "com.servertribe.attune.tuples.StepProjectLinkTuple"
+}
