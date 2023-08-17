@@ -63,6 +63,9 @@ This Project contains the following Blueprints.
 ### Kickstart RHEL7 BIOS on oVirt
 
 
+### Kickstart RHEL7 UEFI on oVirt
+
+
 
 
 

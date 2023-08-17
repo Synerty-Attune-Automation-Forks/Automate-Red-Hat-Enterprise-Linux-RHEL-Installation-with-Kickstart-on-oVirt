@@ -1,0 +1,24 @@
+{
+    "actionOnStepFail": "stop", 
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "4ec4c087-8669-4df8-962c-414188b5f2ac", 
+    "isBlueprint": true, 
+    "key": "kickstartrhel7uefionovirt", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "createrhel7uefikickstartisolink"
+        }, 
+        {
+            "order": 50, 
+            "stepKey": "ovirtrecreatevirtualmachineuefilink"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "cleanbuildfileslink"
+        }
+    ], 
+    "name": "Kickstart RHEL7 UEFI on oVirt", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}
