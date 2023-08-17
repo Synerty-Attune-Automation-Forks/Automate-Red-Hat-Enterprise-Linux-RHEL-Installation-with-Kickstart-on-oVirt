@@ -57,6 +57,9 @@ This Project contains the following Blueprints.
 ### Kickstart RHEL8 BIOS on oVirt
 
 
+### Kickstart RHEL8 UEFI on oVirt
+
+
 
 
 

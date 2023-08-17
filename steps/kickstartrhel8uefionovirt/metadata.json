@@ -1,0 +1,24 @@
+{
+    "actionOnStepFail": "stop", 
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "59b568d6-ee2f-4ee5-b2e8-c91fabe0be12", 
+    "isBlueprint": true, 
+    "key": "kickstartrhel8uefionovirt", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "createrhel8uefikickstartisolink"
+        }, 
+        {
+            "order": 50, 
+            "stepKey": "ovirtrecreatevirtualmachineuefilink"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "cleanbuildfileslink"
+        }
+    ], 
+    "name": "Kickstart RHEL8 UEFI on oVirt", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}
