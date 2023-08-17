@@ -1,0 +1,15 @@
+{
+    "actionOnStepFail": null, 
+    "blueprintName": "", 
+    "blueprintUuid": "31574fc5-dd74-489d-b5e1-73c594962585", 
+    "cloneUrl": "", 
+    "enabled": true, 
+    "externalUuid4": "e4c34654-4703-4a63-a5c0-a490c7534a08", 
+    "key": "createrhel9bioskickstartisolink", 
+    "name": "Create RHEL9 BIOS Kickstart ISO (link)", 
+    "parameterMap": [], 
+    "projectName": "", 
+    "projectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+    "projectVersion": "", 
+    "type": "com.servertribe.attune.tuples.StepProjectLinkTuple"
+}
