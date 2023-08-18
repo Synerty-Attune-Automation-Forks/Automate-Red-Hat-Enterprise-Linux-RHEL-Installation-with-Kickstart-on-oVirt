@@ -7,7 +7,17 @@
     "externalUuid4": "e4c34654-4703-4a63-a5c0-a490c7534a08", 
     "key": "createrhel9bioskickstartisolink", 
     "name": "Create RHEL9 BIOS Kickstart ISO (link)", 
-    "parameterMap": [], 
+    "parameterMap": [
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.Text", 
+            "childParameterUuid": "c4dac7f7-7b20-4b6f-8a9b-be9f69d301c3", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": null, 
+            "parentStaticTextValue": "s"
+        }
+    ], 
     "projectName": "", 
     "projectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
     "projectVersion": "", 
