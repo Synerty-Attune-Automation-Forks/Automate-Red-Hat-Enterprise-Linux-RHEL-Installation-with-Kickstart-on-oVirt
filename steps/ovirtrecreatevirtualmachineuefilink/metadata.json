@@ -1,6 +1,6 @@
 {
-    "actionOnStepFail": null, 
-    "blueprintName": "", 
+    "actionOnStepFail": "stop", 
+    "blueprintName": null, 
     "blueprintUuid": "71b73598-1c8f-4293-8de8-c80d50d5401e", 
     "cloneUrl": "", 
     "enabled": true, 
@@ -14,12 +14,33 @@
             "childParameterUuid": "4dda2e28-1c28-42be-9d13-3facb89f32b8", 
             "childProjectName": null, 
             "childProjectUuid": "338f770e-fb2e-4c26-b0ab-71cf3963fa23", 
+            "childProjectVersion": "master", 
             "parentParameterKey": null, 
             "parentStaticTextValue": "Q35_SECURE_BOOT"
+        }, 
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.Text", 
+            "childParameterUuid": "059a1460-fa6d-425d-8f9a-c09ecdd156f8", 
+            "childProjectName": null, 
+            "childProjectUuid": "338f770e-fb2e-4c26-b0ab-71cf3963fa23", 
+            "childProjectVersion": "master", 
+            "parentParameterKey": null, 
+            "parentStaticTextValue": "VIRTIO_SCSI"
+        }, 
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.Text", 
+            "childParameterUuid": "af59f5ec-f82b-429a-bc0e-9ee71fea77fe", 
+            "childProjectName": null, 
+            "childProjectUuid": "338f770e-fb2e-4c26-b0ab-71cf3963fa23", 
+            "childProjectVersion": "master", 
+            "parentParameterKey": null, 
+            "parentStaticTextValue": "VIRTIO"
         }
     ], 
-    "projectName": "", 
+    "projectName": null, 
     "projectUuid": "338f770e-fb2e-4c26-b0ab-71cf3963fa23", 
-    "projectVersion": "", 
+    "projectVersion": "master", 
     "type": "com.servertribe.attune.tuples.StepProjectLinkTuple"
 }
