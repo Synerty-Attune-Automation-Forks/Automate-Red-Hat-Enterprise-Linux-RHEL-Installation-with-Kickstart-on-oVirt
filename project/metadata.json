@@ -1,6 +1,6 @@
 {
     "externalUuid4": "b5766def-935b-4c1a-880f-03bbb8cc4cf7", 
-    "key": "kickstartrhelredhatenterpriselinuxonovirt", 
-    "name": "Kickstart RHEL Redhat Enterprise Linux on oVirt", 
+    "key": "automateredhatenterpriselinuxrhelinstallationwithkickstartonovirt", 
+    "name": "Automate Red Hat Enterprise Linux RHEL Installation with Kickstart on oVirt", 
     "revision": "145c6dc54454"
 }
